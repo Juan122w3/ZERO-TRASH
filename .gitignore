@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+*.log
+
+# NOTE: outputs/ is deliberately NOT ignored.
+# The generated geometry is the evidence for this project's findings.
