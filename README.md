@@ -72,9 +72,5 @@ cp .env.example .env   # add ZOO_API_KEY
 npm start
 \`\`\`
 
-## Demo
-
-[video]
-
 ## License
 MIT
